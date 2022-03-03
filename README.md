@@ -5,4 +5,9 @@ Components:
 - a Raspberry Camera (I bought [this cheap one](https://www.amazon.com/gp/product/B07M9Q43MX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
 - a PCA9685 PWM controller and two servos (I bought [this](https://www.amazon.com/gp/product/B0874CFBX8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
 - a bright red dot laser ([these work](https://www.amazon.com/gp/product/B071FT9HSV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), although a lot of them were dim)
-- a buzzer 
+- an active buzzer
+- two NPN transistors
+- a button
+- a bunch of jumper wires ([this kit](https://www.amazon.com/gp/product/B01GHVNP0M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) contains the buzzer, NPN transistors, button and wires I used)
+
+
