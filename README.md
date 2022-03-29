@@ -5,7 +5,6 @@ AutoCatLaser is a Raspberry Pi project aiming at entertaining my cats with minim
 See AutoCatLaser Setup and Demo video [here](https://www.youtube.com/watch?v=PJFl5sFPFbk).
 
 This project is based on [this article by Sam Storino](https://storiknow.com/automatic-cat-laser-pointer-toy-using-the-raspberry-pi/).
-More specifically, the `LaserWrapper.py` and `GmailWrapper.py` files were taken from [part 4](https://storiknow.com/automatic-cat-laser-pointer-toy-using-raspberry-pi-part-four/) of the article and adapted for my needs.
 
 
 ## Components needed:
